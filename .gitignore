@@ -1,2 +1,8 @@
 ignore this
 ignore
+
+belgeler/*
+
+!belgeler/dosya1.py
+
+
