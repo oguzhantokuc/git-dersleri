@@ -4,4 +4,4 @@ def topla(x, y):
 def merhaba():
 	print("Hello world")
 
-def test
+merhaba()
